@@ -174,7 +174,7 @@ Equally weighted
 
 
 
-## Getting Started
+# Getting Started
 
 This is user's guide to Dumb Luck - a website where you can prove that you are amongst the luckiest people on Earth. Briefly, this website just gives you a random number between 1 and 7,000,000,000 (Earth population)
 
