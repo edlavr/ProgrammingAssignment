@@ -1,7 +1,5 @@
 # Programming Summative Assessment 2
 
-# COMP1101 Programming Summative Assessment 2
-
 
 ## Term 2 Programming Exercise Outline
 
